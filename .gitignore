@@ -1,1 +1,20 @@
-# Original uncompressed videos backed up in ../original-videos-backup
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Large videos (over GitHub's 100MB limit)
+assets/cherry-blossom-lake-house-minecraft.mp4
+assets/pink-clouds-train.mp4

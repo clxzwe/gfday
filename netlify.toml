@@ -1,0 +1,8 @@
+# Netlify deployment configuration
+# Static SPA (pre-built Vite output) - no build step required.
+[build]
+  command = "echo 'Static site - no build step required'"
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "20"

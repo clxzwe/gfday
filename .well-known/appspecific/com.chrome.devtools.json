@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/jpeg" href="/logo.png" />
+
+  <title>LoveArea - Where Love Becomes a Beautiful Experience</title>
+  <meta name="description"
+    content="Create personalized romantic pages for birthdays, anniversaries, Valentine's Day, proposals, and every moment that deserves to be celebrated with love." />
+  <meta name="author" content="LoveArea" />
+
+  <meta property="og:title" content="LoveArea - Where Love Becomes a Beautiful Experience" />
+  <meta property="og:description"
+    content="Create magical, animated love pages for every special occasion. Express your feelings with beautiful templates." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://lovearea.in/logo.png" />
+<meta property="og:url" content="https://lovearea.in" />
+
+<meta name="twitter:title" content="LoveArea - Where Love Becomes a Beautiful Experience" />
+<meta name="twitter:description"
+  content="Create personalized romantic websites for birthdays, anniversaries and special moments." />
+<meta name="twitter:image" content="https://lovearea.in/logo.png" />
+  <!-- <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" /> -->
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@LoveArea" />
+  <!-- <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" /> -->
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap"
+    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap" rel="stylesheet" />
+  <script src="https://sdk.cashfree.com/js/v3/cashfree.js"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MJ12JW44KZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-MJ12JW44KZ');
+  </script>
+  <script type="module" crossorigin src="/assets/index-DZYHQvRn.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-B30c12lU.css">
+</head>
+
+<body>
+  <div id="root"></div>
+<!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "97f37042710b4388a99f88960e9d8c46"}'></script><!-- Cloudflare Pages Analytics --></body>
+
+</html>
